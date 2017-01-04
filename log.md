@@ -1,30 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 1, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Commited to the learning by coding for a 100 days
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I am not sure what to pick to learn since there are so many things I want to learn.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: January 3, 2017
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Decided to start with Java 8 and Spring 5
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: Takes longer than expected to get the environment ready. 
+Starting on a Hadoop monitoring application. 
+I did not remember that I had started a repo for this last year. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work**: 
+1. cham: https://github.com/cinq/cham.git
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: January 4, 2017
 
+**Today's Progress**: 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1.
+2. 
