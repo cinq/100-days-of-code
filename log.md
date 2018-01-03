@@ -1,21 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 1, 2017
+### Day 0: January 2, 2018
 
-**Today's Progress**: Commited to the learning by coding for a 100 days
+**Today's Progress**: 
+- Commited to learning Kotlin by coding for a 100 days.
+- Started to read a book I purchased before Christmas
 
-**Thoughts:** I am not sure what to pick to learn since there are so many things I want to learn.
+**Thoughts:** This is my second attempt at this so we will see how far I get this time.
 
 ### Day 1: January 3, 2017
 
-**Today's Progress**: Decided to start with Java 8 and Spring 5
+**Today's Progress**: 
+- Reading some basic concepts about Kotlin
 
-**Thoughts**: Takes longer than expected to get the environment ready. 
-Starting on a Hadoop monitoring application. 
-I did not remember that I had started a repo for this last year. 
+**Thoughts**: I am still doing the easy steps
 
 **Link(s) to work**: 
-1. cham: https://github.com/cinq/cham.git
+1. betterMem: https://github.com/cinq/betterMem
 
 ### Day 2: January 4, 2017
 
