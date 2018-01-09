@@ -42,6 +42,7 @@
 **Link(s) to work**
 1. https://github.com/cinq/betterMem
 
+
 ### Day 4: January 8, 2018
 
 **Today's Progress**:
@@ -49,9 +50,29 @@
 - Reading more basic training material
     - https://proandroiddev.com/kotlin-syntax-part-ii-when-did-this-switch-happen-a95a78f37962
     - https://proandroiddev.com/kotlin-syntax-part-i-why-am-i-excluded-86772a61fade
+- Created project KotlinLearning
+    - Tested Null safety in LearningNullHandling.kt
 
 **Thoughts** 
 - Taking a break on the weekend is ok; I don't train at the gym 7 days a week; finding balance is important; I should try to do 
 
 **Link(s) to work**
-1. https://github.com/cinq/betterMem
+1. Local file: LearningNullHandling.kt
+
+
+### Day 5: January 9, 2018
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day X: Month Y, 2018
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
