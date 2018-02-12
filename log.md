@@ -85,6 +85,31 @@
 - https://github.com/cinq/KotlinLearning
 
 
+### Day 7: February 11, 2018
+
+**Today's Progress**:
+- Read about the Anko library and figured out the download maven url for it
+- Created a Kotlin project using start.spring.io
+
+**Thoughts** 
+- I have not worked on programming with Kotlin in way too long
+- I see why you need to dedicate at least an hour every day to be making real progress
+- I have a lot of scheduling challenges and I am not sure how I will address them
+
+**Link(s) to work**
+- https://cinq.com/2018/02/12/learning-kotlin-1-10000/
+
+
+### Day 8: February 12, 2018
+
+**Today's Progress**:
+- 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
 ### Day X: Month Y, 2018
 
 **Today's Progress**:
