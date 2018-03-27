@@ -100,10 +100,38 @@
 - https://cinq.com/2018/02/12/learning-kotlin-1-10000/
 
 
-### Day 8: February 12, 2018
+### Day 8: March 25, 2018
 
 **Today's Progress**:
-- 
+- Listening to course on Kotlin and trying what I have never seen before
+- Testing labelling the parameters passed to function 
+
+**Thoughts** 
+- Since I have not touched Kotlin in so long I have issues with some basics
+- Moved the src code in the src/kotlin directory to have the proper structure
+
+**Link(s) to work**
+- https://github.com/cinq/KotlinLearning/blob/master/src/kotlin/paramLabel.kt
+
+
+### Day 9: March 26, 2018
+
+**Today's Progress**:
+- Completed the parameter labelling and I have working code
+
+**Thoughts** 
+- Had to search to figure out how to run my Kotlin code properly
+- Had to correct a few typoes
+- Since I am working on my personal laptop I had to create a new token
+    at Github    
+    
+**Link(s) to work**
+- https://github.com/cinq/KotlinLearning/blob/master/src/kotlin/paramLabel.kt
+
+
+### Day 10: March 27, 2018
+
+**Today's Progress**:
 
 **Thoughts** 
 
