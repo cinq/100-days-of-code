@@ -132,6 +132,18 @@
 ### Day 10: March 27, 2018
 
 **Today's Progress**:
+- Designing the model for my web/mobile app
+
+**Thoughts** 
+- Important to get a few things organized before starting to code
+
+**Link(s) to work**
+- https://github.com/cinq/betterMem
+
+
+### Day 11: March 29, 2018
+
+**Today's Progress**:
 
 **Thoughts** 
 
