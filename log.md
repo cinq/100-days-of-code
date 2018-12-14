@@ -203,7 +203,7 @@
 
 ### Day 00: December 13, 2018
 
-** Today's Progress**:
+**Today's Progress**:
 - Sick day
 
 
