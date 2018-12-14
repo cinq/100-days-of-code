@@ -103,11 +103,79 @@
 ### Day 8: February 12, 2018
 
 **Today's Progress**:
-- 
+- Trying to use the anko email function
 
-**Thoughts** 
+**Thoughts**
+- Getting compilation errors and I am reading on Kotlin receiver to understand what is going on
 
 **Link(s) to work**
+- I have not comitted this project anywhere at this time; will do once I have something working and doing at least one thing
+
+### Day 0: November, 2018
+
+**Today's Progress**:
+- restarting the learning for Kotlin for the 3rd time
+
+**Thoughts** 
+- It is too easy to get distracted and not spend the time to learn and practice every day
+
+**Link(s) to work**
+- https://github.com/cinq/KotlinLearning
+
+
+### Day 9: December 3, 2018
+
+**Today's Progress**:
+- Watching course videos and reading code
+
+**Thoughts** 
+- Not the best progress but back into action
+
+**Link(s) to work**
+- Online course for Java to Kotlin
+
+
+### Day 10: December 4, 2018
+
+**Today's Progress**:
+- Learning about control flow
+- Learning about referential and structural equality
+
+**Thoughts** 
+- I am impatient to move to more complicated topics but you have to crawl, walk then run
+
+**Link(s) to work**
+- https://github.com/cinq/KotlinLearning
+
+### Day 11: December 12, 2018
+
+**Today's Progress**:
+- using raw string and string template
+- REPL for 2 seconds
+
+**Thoughts**
+- It is difficult to get time every day to learn
+- There is nothing like trying to do code to realize some of the small details that you did not pay attention to
+
+**Link(s) to work**
+- https://github.com/cinq/KotlinLearning
+
+### Day 00: December 13, 2018
+
+** Today's Progress**:
+- Sick day
+
+
+### Day 12: December 14, 2018
+
+**Today's Progress**:
+- Testing code review with Pull Request
+
+**Thoughts** 
+- smart way to do code review that does not require a separate tool like Crucible
+
+**Link(s) to work**
+- https://github.com/cinq/KotlinLearning
 
 
 ### Day X: Month Y, 2018
