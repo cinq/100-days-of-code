@@ -219,7 +219,45 @@
 - https://github.com/cinq/KotlinLearning
 
 
-### Day X: Month Y, 2018
+### Day 1: January 3, 2019
+
+**Today's Progress**:
+- Time to start again this year; more like a continuation
+
+**Thoughts** 
+- It is good to learn again
+
+**Link(s) to work**
+PGP application is in an internal org on Github
+
+
+### Day 2: January 4, 2019
+
+**Today's Progress**:
+- Learning how Quartz in Spring Boot works with Kotlin; very similar to Java; annotation
+
+**Thoughts** 
+- It is good to learn that Quartz is as easy to use
+
+**Link(s) to work**
+PGP application is in an internal org on Github
+
+
+### Day 3: January 7, 2019
+
+**Today's Progress**:
+- Trying to setup the testing context for the application
+- Readying about context programming; extensions functions
+
+**Thoughts** 
+- I have no clue what I am doing so I start with the easy items
+
+**Link(s) to work**
+- PGP application is in an internal org on Github
+- https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2
+
+
+### Day X: Month Y, 2019
 
 **Today's Progress**:
 
