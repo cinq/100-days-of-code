@@ -257,6 +257,43 @@ PGP application is in an internal org on Github
 - https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2
 
 
+### Day 4: January 8, 2019
+
+**Today's Progress**:
+- continue to separate concerns in many classes
+
+**Thoughts** 
+- simple day where normal and easy progress is made
+
+**Link(s) to work**
+- PGP application
+
+
+### Day 5: January 9, 2019
+
+**Today's Progress**:
+- working with files and paths
+
+**Thoughts** 
+- integration with Java is interesting; a bit ugly
+
+**Link(s) to work**
+- PGP application
+
+
+### Day 6: January 10, 2019
+
+**Today's Progress**:
+- file and properties logic is working
+
+**Thoughts** 
+- there are certain things that I had to do that don't look optimal
+- I will need to revisit this
+
+**Link(s) to work**
+- PGP Application
+
+
 ### Day X: Month Y, 2019
 
 **Today's Progress**:
